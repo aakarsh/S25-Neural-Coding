@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "bf19bc7001baca5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "08cb524c6d1af934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2161328e5e3ffad0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "slides/01_Introduction_NC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "01_Introduction_NC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5ee42abea4e51ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dcb0fa92272c689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1290a3ac5ccc1a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "56d7b87ec1790264",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1d20107c14a050c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9d6ebfc6a48153a",
+    "type": "split",
+    "children": [
+      {
+        "id": "49bed202e27d5d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581ce0ce875a3374",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "slides/01_Introduction_NC.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01_Introduction_NC"
+            }
+          },
+          {
+            "id": "b94cc4f11580751f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "slides/01_Introduction_NC.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01_Introduction_NC"
+            }
+          },
+          {
+            "id": "3c7aa5c48dbda622",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99043f9368f0e7af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slides/01_Introduction_NC.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01_Introduction_NC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d1290a3ac5ccc1a8",
+  "lastOpenFiles": [
+    "slides/02_Homogeneous_Poisson.pdf",
+    "slides/01_Introduction_NC.pdf",
+    "course-material/2025_Neural_Coding_Script_draft.pdf",
+    "slides",
+    "course-material/2025_Neural_Coding_preliminary_course_plan.pdf",
+    "course-material/Mathematical_basics__Probability_and_Statistics.pdf"
+  ]
+}
