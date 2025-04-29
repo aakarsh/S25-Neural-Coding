@@ -11,12 +11,14 @@
             "id": "2161328e5e3ffad0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "slides/01_Introduction_NC.pdf"
+                "file": "Neural Coding - Summer 2025 (Tuebingen).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "01_Introduction_NC"
+              "icon": "lucide-file",
+              "title": "Neural Coding - Summer 2025 (Tuebingen)"
             }
           }
         ]
@@ -166,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1290a3ac5ccc1a8",
+  "active": "2161328e5e3ffad0",
   "lastOpenFiles": [
-    "slides/02_Homogeneous_Poisson.pdf",
     "slides/01_Introduction_NC.pdf",
+    "Neural Coding - Summer 2025 (Tuebingen).md",
+    "slides/02_Homogeneous_Poisson.pdf",
     "course-material/2025_Neural_Coding_Script_draft.pdf",
     "slides",
     "course-material/2025_Neural_Coding_preliminary_course_plan.pdf",
