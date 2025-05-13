@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08cb524c6d1af934",
+        "id": "e3a253154b88c53d",
         "type": "tabs",
         "children": [
           {
-            "id": "2161328e5e3ffad0",
+            "id": "503163e1eabf0cbd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "course-material/2025_Neural_Coding_preliminary_course_plan.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025_Neural_Coding_preliminary_course_plan"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2161328e5e3ffad0",
+  "active": "d1290a3ac5ccc1a8",
   "lastOpenFiles": [
+    "homeworks/2025_Neural_coding_Homework2.ipynb",
+    "homeworks/2025_Neural_coding_Homework2 (1).ipynb",
     "reference-books/Grimmett-Stirzaker_Oxford01_ExercisesInProbability.pdf",
     "reference-books/DayanAbbott.pdf",
     "reference-books/prob.pdf",
@@ -180,8 +180,6 @@
     "Neural Coding - Summer 2025 (Tuebingen).md",
     "slides/02_Homogeneous_Poisson.pdf",
     "course-material/2025_Neural_Coding_Script_draft.pdf",
-    "slides",
-    "course-material/2025_Neural_Coding_preliminary_course_plan.pdf",
-    "course-material/Mathematical_basics__Probability_and_Statistics.pdf"
+    "slides"
   ]
 }
